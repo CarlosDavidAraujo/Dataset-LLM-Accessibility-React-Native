@@ -1,0 +1,253 @@
+Tela;LLM;Estrategia;Idioma;Prompt;Rotulo editavel;Texto oculto;Contraste de texto;Descricao de item;Area de toque;Rotulo do item;Rotulo do tipo de item;Contexto;Contraste de imagem;Itens clicaveis;Total
+Login;Gemini 2.0 Flash;Zero-Shot;Portugues;1;2;1;1;0;0;0;0;0;0;0;4
+Login;Gemini 2.0 Flash;Zero-Shot;Portugues;2;2;0;1;1;2;0;0;0;0;0;6
+Login;Gemini 2.0 Flash;Zero-Shot;Portugues;3;2;1;1;0;0;0;0;0;0;0;4
+Login;Gemini 2.0 Flash;Zero-Shot;Ingles;1;2;1;1;1;0;0;0;0;0;0;5
+Login;Gemini 2.0 Flash;Zero-Shot;Ingles;2;2;4;1;0;0;0;0;0;0;0;7
+Login;Gemini 2.0 Flash;Zero-Shot;Ingles;3;2;2;1;1;1;0;0;0;0;0;7
+Login;Gemini 2.0 Flash;Few-Shot;Portugues;1;0;0;2;0;0;0;0;0;0;0;2
+Login;Gemini 2.0 Flash;Few-Shot;Portugues;2;2;0;0;0;0;0;0;0;0;0;2
+Login;Gemini 2.0 Flash;Few-Shot;Portugues;3;0;0;2;0;0;0;0;0;0;0;2
+Login;Gemini 2.0 Flash;Few-Shot;Ingles;1;0;0;1;0;0;0;0;0;0;0;1
+Login;Gemini 2.0 Flash;Few-Shot;Ingles;2;0;0;2;0;0;0;0;0;0;0;2
+Login;Gemini 2.0 Flash;Few-Shot;Ingles;3;0;0;4;0;2;0;0;0;0;0;6
+Login;DeepSeek V3;Zero-Shot;Portugues;1;2;1;1;0;0;0;0;0;0;0;4
+Login;DeepSeek V3;Zero-Shot;Portugues;2;2;0;1;1;2;0;0;0;0;0;6
+Login;DeepSeek V3;Zero-Shot;Portugues;3;2;1;1;0;0;0;0;0;0;0;4
+Login;DeepSeek V3;Zero-Shot;Ingles;1;2;1;1;1;0;0;0;0;0;0;5
+Login;DeepSeek V3;Zero-Shot;Ingles;2;2;4;1;0;0;0;0;0;0;0;7
+Login;DeepSeek V3;Zero-Shot;Ingles;3;2;2;1;1;0;0;0;0;0;0;6
+Login;DeepSeek V3;Few-Shot;Portugues;1;0;0;2;0;0;0;0;0;0;0;2
+Login;DeepSeek V3;Few-Shot;Portugues;2;0;0;0;0;0;2;0;0;0;0;2
+Login;DeepSeek V3;Few-Shot;Portugues;3;0;0;2;0;0;0;0;0;0;0;2
+Login;DeepSeek V3;Few-Shot;Ingles;1;0;0;1;0;0;0;0;0;0;0;1
+Login;DeepSeek V3;Few-Shot;Ingles;2;0;0;2;0;0;0;0;0;0;0;2
+Login;DeepSeek V3;Few-Shot;Ingles;3;0;0;0;0;0;0;0;0;0;0;0
+Login;Chat-GPT 4.o mini;Zero-Shot;Portugues;1;2;1;1;0;0;0;0;0;0;0;4
+Login;Chat-GPT 4.o mini;Zero-Shot;Portugues;2;2;0;1;1;2;0;0;0;0;0;6
+Login;Chat-GPT 4.o mini;Zero-Shot;Portugues;3;2;3;3;0;1;0;0;0;0;0;9
+Login;Chat-GPT 4.o mini;Zero-Shot;Ingles;1;2;1;1;1;0;0;0;0;0;0;5
+Login;Chat-GPT 4.o mini;Zero-Shot;Ingles;2;2;4;1;0;0;0;0;0;0;0;7
+Login;Chat-GPT 4.o mini;Zero-Shot;Ingles;3;2;2;1;1;1;0;0;0;0;0;7
+Login;Chat-GPT 4.o mini;Few-Shot;Portugues;1;0;0;2;0;0;0;0;0;0;0;2
+Login;Chat-GPT 4.o mini;Few-Shot;Portugues;2;0;0;0;0;0;2;0;0;0;0;2
+Login;Chat-GPT 4.o mini;Few-Shot;Portugues;3;0;0;2;0;0;0;0;0;0;0;2
+Login;Chat-GPT 4.o mini;Few-Shot;Ingles;1;0;0;1;0;0;0;0;0;0;0;1
+Login;Chat-GPT 4.o mini;Few-Shot;Ingles;2;0;0;2;0;0;0;0;0;0;0;2
+Login;Chat-GPT 4.o mini;Few-Shot;Ingles;3;0;0;2;0;2;0;0;0;0;0;4
+Produto;Gemini 2.0 Flash;Zero-Shot;Portugues;1;0;0;2;0;0;0;0;0;0;0;2
+Produto;Gemini 2.0 Flash;Zero-Shot;Portugues;2;0;0;2;0;0;0;0;0;0;0;2
+Produto;Gemini 2.0 Flash;Zero-Shot;Portugues;3;0;0;2;0;2;0;0;0;0;0;4
+Produto;Gemini 2.0 Flash;Zero-Shot;Ingles;1;0;2;2;0;0;0;0;0;0;0;4
+Produto;Gemini 2.0 Flash;Zero-Shot;Ingles;2;0;2;2;0;0;0;0;0;0;0;4
+Produto;Gemini 2.0 Flash;Zero-Shot;Ingles;3;0;2;1;0;2;0;0;0;0;0;5
+Produto;Gemini 2.0 Flash;Few-Shot;Portugues;1;0;2;5;0;0;0;0;0;0;0;7
+Produto;Gemini 2.0 Flash;Few-Shot;Portugues;2;0;0;5;0;0;0;0;0;0;0;5
+Produto;Gemini 2.0 Flash;Few-Shot;Portugues;3;0;0;5;0;0;0;0;0;0;0;5
+Produto;Gemini 2.0 Flash;Few-Shot;Ingles;1;0;2;2;0;2;0;0;0;0;0;6
+Produto;Gemini 2.0 Flash;Few-Shot;Ingles;2;0;2;1;1;2;0;0;0;0;0;6
+Produto;Gemini 2.0 Flash;Few-Shot;Ingles;3;0;0;2;0;0;0;0;0;0;0;2
+Produto;DeepSeek V3;Zero-Shot;Portugues;1;0;2;2;0;0;0;0;0;0;0;4
+Produto;DeepSeek V3;Zero-Shot;Portugues;2;0;0;1;0;0;0;0;0;0;0;1
+Produto;DeepSeek V3;Zero-Shot;Portugues;3;0;0;1;0;0;0;0;0;0;0;1
+Produto;DeepSeek V3;Zero-Shot;Ingles;1;0;0;2;0;0;0;0;0;0;0;2
+Produto;DeepSeek V3;Zero-Shot;Ingles;2;0;2;2;0;2;0;0;0;0;0;6
+Produto;DeepSeek V3;Zero-Shot;Ingles;3;0;0;2;0;0;0;0;0;0;0;2
+Produto;DeepSeek V3;Few-Shot;Portugues;1;0;2;2;0;0;0;0;0;0;0;4
+Produto;DeepSeek V3;Few-Shot;Portugues;2;0;2;2;0;0;0;0;0;0;0;4
+Produto;DeepSeek V3;Few-Shot;Portugues;3;0;2;2;0;0;0;0;0;0;0;4
+Produto;DeepSeek V3;Few-Shot;Ingles;1;0;2;2;0;0;0;0;0;0;0;4
+Produto;DeepSeek V3;Few-Shot;Ingles;2;0;2;2;0;0;0;0;0;0;0;4
+Produto;DeepSeek V3;Few-Shot;Ingles;3;0;2;2;0;0;0;0;0;0;0;4
+Produto;Chat-GPT 4.o mini;Zero-Shot;Portugues;1;0;0;3;0;0;0;0;0;0;0;3
+Produto;Chat-GPT 4.o mini;Zero-Shot;Portugues;2;0;0;2;0;0;0;2;0;0;0;4
+Produto;Chat-GPT 4.o mini;Zero-Shot;Portugues;3;0;0;0;0;0;0;0;0;0;0;0
+Produto;Chat-GPT 4.o mini;Zero-Shot;Ingles;1;0;0;2;0;2;0;0;0;0;0;4
+Produto;Chat-GPT 4.o mini;Zero-Shot;Ingles;2;0;0;0;0;0;0;0;0;0;0;0
+Produto;Chat-GPT 4.o mini;Zero-Shot;Ingles;3;0;0;1;0;0;0;0;0;0;0;1
+Produto;Chat-GPT 4.o mini;Few-Shot;Portugues;1;0;0;2;0;0;0;0;0;0;0;2
+Produto;Chat-GPT 4.o mini;Few-Shot;Portugues;2;0;2;2;0;0;0;0;0;0;0;4
+Produto;Chat-GPT 4.o mini;Few-Shot;Portugues;3;0;0;2;0;0;0;0;0;0;0;2
+Produto;Chat-GPT 4.o mini;Few-Shot;Ingles;1;0;2;2;0;0;0;0;0;0;0;4
+Produto;Chat-GPT 4.o mini;Few-Shot;Ingles;2;0;3;2;0;0;0;0;0;0;0;5
+Produto;Chat-GPT 4.o mini;Few-Shot;Ingles;3;0;2;2;0;0;0;0;0;0;0;4
+Perfil;Gemini 2.0 Flash;Zero-Shot;Portugues;1;0;0;1;0;0;0;0;1;0;0;2
+Perfil;Gemini 2.0 Flash;Zero-Shot;Portugues;2;4;4;0;4;0;0;0;1;0;0;13
+Perfil;Gemini 2.0 Flash;Zero-Shot;Portugues;3;4;4;0;0;0;0;0;1;0;0;9
+Perfil;Gemini 2.0 Flash;Zero-Shot;Ingles;1;4;4;1;0;0;0;0;0;0;0;9
+Perfil;Gemini 2.0 Flash;Zero-Shot;Ingles;2;4;4;1;2;1;0;0;0;0;0;12
+Perfil;Gemini 2.0 Flash;Zero-Shot;Ingles;3;4;4;0;0;0;0;0;0;0;0;8
+Perfil;Gemini 2.0 Flash;Few-Shot;Portugues;1;0;0;2;0;0;0;0;0;0;0;2
+Perfil;Gemini 2.0 Flash;Few-Shot;Portugues;2;0;0;2;0;0;0;0;0;0;0;2
+Perfil;Gemini 2.0 Flash;Few-Shot;Portugues;3;0;0;2;0;0;0;0;0;0;0;2
+Perfil;Gemini 2.0 Flash;Few-Shot;Ingles;1;0;0;2;0;4;0;0;0;0;0;6
+Perfil;Gemini 2.0 Flash;Few-Shot;Ingles;2;0;0;2;0;0;0;0;0;0;0;2
+Perfil;Gemini 2.0 Flash;Few-Shot;Ingles;3;0;0;0;0;0;0;0;0;0;0;0
+Perfil;DeepSeek V3;Zero-Shot;Portugues;1;0;0;0;0;0;0;0;0;0;0;0
+Perfil;DeepSeek V3;Zero-Shot;Portugues;2;0;0;0;0;0;0;0;0;0;0;0
+Perfil;DeepSeek V3;Zero-Shot;Portugues;3;0;0;1;0;1;0;0;0;0;0;2
+Perfil;DeepSeek V3;Zero-Shot;Ingles;1;0;0;0;0;0;0;0;0;0;0;0
+Perfil;DeepSeek V3;Zero-Shot;Ingles;2;0;0;0;0;0;0;0;0;0;0;0
+Perfil;DeepSeek V3;Zero-Shot;Ingles;3;0;0;1;0;0;0;0;0;0;0;1
+Perfil;DeepSeek V3;Few-Shot;Portugues;1;0;0;0;0;0;0;0;0;0;0;0
+Perfil;DeepSeek V3;Few-Shot;Portugues;2;0;0;0;0;0;0;0;0;1;0;1
+Perfil;DeepSeek V3;Few-Shot;Portugues;3;0;0;0;0;0;0;0;0;0;0;0
+Perfil;DeepSeek V3;Few-Shot;Ingles;1;0;0;0;0;0;0;0;0;0;0;0
+Perfil;DeepSeek V3;Few-Shot;Ingles;2;0;0;0;0;0;0;0;0;0;0;0
+Perfil;DeepSeek V3;Few-Shot;Ingles;3;0;1;0;0;0;0;0;0;0;0;1
+Perfil;Chat-GPT 4.o mini;Zero-Shot;Portugues;1;4;4;0;0;4;0;0;0;0;0;12
+Perfil;Chat-GPT 4.o mini;Zero-Shot;Portugues;2;4;4;4;0;4;0;2;0;0;0;18
+Perfil;Chat-GPT 4.o mini;Zero-Shot;Portugues;3;4;4;1;0;1;0;0;0;1;0;11
+Perfil;Chat-GPT 4.o mini;Zero-Shot;Ingles;1;4;4;0;0;0;0;0;0;0;0;8
+Perfil;Chat-GPT 4.o mini;Zero-Shot;Ingles;2;4;4;0;0;0;0;0;0;1;0;9
+Perfil;Chat-GPT 4.o mini;Zero-Shot;Ingles;3;4;4;1;0;1;0;0;0;0;0;10
+Perfil;Chat-GPT 4.o mini;Few-Shot;Portugues;1;0;0;2;0;0;0;0;0;0;0;2
+Perfil;Chat-GPT 4.o mini;Few-Shot;Portugues;2;4;4;2;0;0;0;0;0;0;0;10
+Perfil;Chat-GPT 4.o mini;Few-Shot;Portugues;3;4;4;2;0;0;0;0;0;0;0;10
+Perfil;Chat-GPT 4.o mini;Few-Shot;Ingles;1;4;4;2;0;4;0;0;0;0;0;14
+Perfil;Chat-GPT 4.o mini;Few-Shot;Ingles;2;0;0;2;0;0;0;0;0;0;0;2
+Perfil;Chat-GPT 4.o mini;Few-Shot;Ingles;3;0;0;6;0;4;0;0;0;0;0;10
+Music Player;Gemini 2.0 Flash;Zero-Shot;Portugues;1;0;0;3;0;3;0;0;0;0;0;6
+Music Player;Gemini 2.0 Flash;Zero-Shot;Portugues;2;0;0;3;0;6;0;0;0;0;0;9
+Music Player;Gemini 2.0 Flash;Zero-Shot;Portugues;3;0;0;0;0;3;0;0;0;0;0;3
+Music Player;Gemini 2.0 Flash;Zero-Shot;Ingles;1;0;0;0;0;0;0;0;0;0;0;0
+Music Player;Gemini 2.0 Flash;Zero-Shot;Ingles;2;0;0;0;0;0;0;0;0;0;0;0
+Music Player;Gemini 2.0 Flash;Zero-Shot;Ingles;3;0;0;0;0;0;0;0;0;0;0;0
+Music Player;Gemini 2.0 Flash;Few-Shot;Portugues;1;0;0;0;0;0;0;0;0;1;0;1
+Music Player;Gemini 2.0 Flash;Few-Shot;Portugues;2;0;0;0;0;0;0;0;0;0;0;0
+Music Player;Gemini 2.0 Flash;Few-Shot;Portugues;3;0;0;0;0;0;0;0;0;0;0;0
+Music Player;Gemini 2.0 Flash;Few-Shot;Ingles;1;0;0;0;0;0;0;0;0;0;0;0
+Music Player;Gemini 2.0 Flash;Few-Shot;Ingles;2;0;2;0;0;0;0;0;0;0;0;2
+Music Player;Gemini 2.0 Flash;Few-Shot;Ingles;3;0;0;2;0;0;0;0;0;0;0;2
+Music Player;DeepSeek V3;Zero-Shot;Portugues;1;0;0;0;0;0;0;0;0;0;0;0
+Music Player;DeepSeek V3;Zero-Shot;Portugues;2;0;3;1;0;0;0;0;0;0;0;4
+Music Player;DeepSeek V3;Zero-Shot;Portugues;3;0;3;3;0;0;0;0;0;0;0;6
+Music Player;DeepSeek V3;Zero-Shot;Ingles;1;0;0;0;1;0;0;0;0;0;0;1
+Music Player;DeepSeek V3;Zero-Shot;Ingles;2;0;0;1;0;0;0;0;0;0;0;1
+Music Player;DeepSeek V3;Zero-Shot;Ingles;3;0;2;0;1;0;0;0;0;0;0;3
+Music Player;DeepSeek V3;Few-Shot;Portugues;1;0;1;0;0;0;0;0;0;0;0;1
+Music Player;DeepSeek V3;Few-Shot;Portugues;2;0;1;0;0;0;0;0;0;0;0;1
+Music Player;DeepSeek V3;Few-Shot;Portugues;3;0;1;0;0;0;0;0;0;0;0;1
+Music Player;DeepSeek V3;Few-Shot;Ingles;1;0;0;0;0;0;0;0;0;0;0;0
+Music Player;DeepSeek V3;Few-Shot;Ingles;2;0;1;2;0;0;0;0;0;0;0;3
+Music Player;DeepSeek V3;Few-Shot;Ingles;3;0;1;0;0;0;0;0;0;0;0;1
+Music Player;Chat-GPT 4.o mini;Zero-Shot;Portugues;1;0;3;3;0;0;0;0;0;0;0;6
+Music Player;Chat-GPT 4.o mini;Zero-Shot;Portugues;2;0;3;3;0;0;0;0;0;0;0;6
+Music Player;Chat-GPT 4.o mini;Zero-Shot;Portugues;3;0;1;0;0;0;0;0;0;0;0;1
+Music Player;Chat-GPT 4.o mini;Zero-Shot;Ingles;1;0;1;0;0;0;0;0;0;0;0;1
+Music Player;Chat-GPT 4.o mini;Zero-Shot;Ingles;2;0;1;0;0;2;0;0;0;0;0;3
+Music Player;Chat-GPT 4.o mini;Zero-Shot;Ingles;3;0;3;0;0;3;0;0;0;0;0;6
+Music Player;Chat-GPT 4.o mini;Few-Shot;Portugues;1;0;0;2;0;2;0;0;0;0;0;4
+Music Player;Chat-GPT 4.o mini;Few-Shot;Portugues;2;0;0;3;0;0;0;0;0;0;0;3
+Music Player;Chat-GPT 4.o mini;Few-Shot;Portugues;3;0;1;1;0;1;0;0;0;0;0;3
+Music Player;Chat-GPT 4.o mini;Few-Shot;Ingles;1;0;1;3;0;0;0;0;0;0;0;4
+Music Player;Chat-GPT 4.o mini;Few-Shot;Ingles;2;0;0;3;0;0;0;0;0;0;0;3
+Music Player;Chat-GPT 4.o mini;Few-Shot;Ingles;3;0;1;0;0;1;0;0;0;0;0;2
+Lista de Tarefas;Gemini 2.0 Flash;Zero-Shot;Portugues;1;0;0;6;0;0;0;0;0;0;0;6
+Lista de Tarefas;Gemini 2.0 Flash;Zero-Shot;Portugues;2;0;0;0;0;0;0;0;0;0;0;0
+Lista de Tarefas;Gemini 2.0 Flash;Zero-Shot;Portugues;3;0;0;0;0;0;0;0;0;0;0;0
+Lista de Tarefas;Gemini 2.0 Flash;Zero-Shot;Ingles;1;0;0;0;1;4;0;0;0;0;0;5
+Lista de Tarefas;Gemini 2.0 Flash;Zero-Shot;Ingles;2;0;0;1;1;3;0;0;0;0;0;5
+Lista de Tarefas;Gemini 2.0 Flash;Zero-Shot;Ingles;3;0;0;1;0;3;0;0;0;0;0;4
+Lista de Tarefas;Gemini 2.0 Flash;Few-Shot;Portugues;1;0;0;5;0;0;0;0;0;0;0;5
+Lista de Tarefas;Gemini 2.0 Flash;Few-Shot;Portugues;2;0;0;5;1;0;0;0;0;0;0;6
+Lista de Tarefas;Gemini 2.0 Flash;Few-Shot;Portugues;3;0;0;0;1;0;0;0;0;0;0;1
+Lista de Tarefas;Gemini 2.0 Flash;Few-Shot;Ingles;1;0;0;6;0;0;0;0;0;0;0;6
+Lista de Tarefas;Gemini 2.0 Flash;Few-Shot;Ingles;2;0;0;0;1;0;0;0;0;0;0;1
+Lista de Tarefas;Gemini 2.0 Flash;Few-Shot;Ingles;3;0;0;0;0;0;0;0;0;0;0;0
+Lista de Tarefas;DeepSeek V3;Zero-Shot;Portugues;1;0;0;1;1;4;0;0;0;0;0;6
+Lista de Tarefas;DeepSeek V3;Zero-Shot;Portugues;2;0;1;0;1;3;0;0;0;0;0;5
+Lista de Tarefas;DeepSeek V3;Zero-Shot;Portugues;3;0;0;0;1;0;0;0;0;0;3;4
+Lista de Tarefas;DeepSeek V3;Zero-Shot;Ingles;1;0;0;0;0;0;0;0;0;0;0;0
+Lista de Tarefas;DeepSeek V3;Zero-Shot;Ingles;2;0;0;0;0;4;0;0;0;0;0;4
+Lista de Tarefas;DeepSeek V3;Zero-Shot;Ingles;3;0;0;0;0;4;0;0;0;0;0;4
+Lista de Tarefas;DeepSeek V3;Few-Shot;Portugues;1;0;0;0;0;3;0;0;0;0;0;3
+Lista de Tarefas;DeepSeek V3;Few-Shot;Portugues;2;0;0;0;0;0;0;0;0;0;0;0
+Lista de Tarefas;DeepSeek V3;Few-Shot;Portugues;3;0;0;0;1;0;0;0;0;0;0;1
+Lista de Tarefas;DeepSeek V3;Few-Shot;Ingles;1;0;0;0;1;3;0;0;0;0;0;4
+Lista de Tarefas;DeepSeek V3;Few-Shot;Ingles;2;0;0;0;2;3;0;0;0;0;0;5
+Lista de Tarefas;DeepSeek V3;Few-Shot;Ingles;3;0;0;2;2;3;0;0;0;0;0;7
+Lista de Tarefas;Chat-GPT 4.o mini;Zero-Shot;Portugues;1;0;0;3;1;6;0;0;0;0;3;13
+Lista de Tarefas;Chat-GPT 4.o mini;Zero-Shot;Portugues;2;0;0;4;0;6;0;0;0;0;0;10
+Lista de Tarefas;Chat-GPT 4.o mini;Zero-Shot;Portugues;3;0;0;2;1;3;0;0;0;0;0;6
+Lista de Tarefas;Chat-GPT 4.o mini;Zero-Shot;Ingles;1;0;0;4;0;6;0;0;0;0;0;10
+Lista de Tarefas;Chat-GPT 4.o mini;Zero-Shot;Ingles;2;0;0;3;0;6;0;0;0;0;0;9
+Lista de Tarefas;Chat-GPT 4.o mini;Zero-Shot;Ingles;3;0;0;3;0;6;0;0;0;0;0;9
+Lista de Tarefas;Chat-GPT 4.o mini;Few-Shot;Portugues;1;0;0;0;1;3;0;0;0;0;0;4
+Lista de Tarefas;Chat-GPT 4.o mini;Few-Shot;Portugues;2;0;0;7;0;3;0;0;0;0;0;10
+Lista de Tarefas;Chat-GPT 4.o mini;Few-Shot;Portugues;3;0;0;0;0;0;0;0;0;0;0;0
+Lista de Tarefas;Chat-GPT 4.o mini;Few-Shot;Ingles;1;0;0;5;1;3;0;0;0;0;0;9
+Lista de Tarefas;Chat-GPT 4.o mini;Few-Shot;Ingles;2;0;0;0;0;3;0;0;0;0;0;3
+Lista de Tarefas;Chat-GPT 4.o mini;Few-Shot;Ingles;3;0;0;0;0;6;0;0;0;0;0;6
+Registro;Gemini 2.0 Flash;Zero-Shot;Portugues;1;6;1;2;6;6;0;0;0;0;0;21
+Registro;Gemini 2.0 Flash;Zero-Shot;Portugues;2;6;1;2;0;6;0;0;0;0;0;15
+Registro;Gemini 2.0 Flash;Zero-Shot;Portugues;3;5;1;2;0;5;0;0;0;0;0;13
+Registro;Gemini 2.0 Flash;Zero-Shot;Ingles;1;4;1;2;6;0;0;0;0;0;0;13
+Registro;Gemini 2.0 Flash;Zero-Shot;Ingles;2;0;0;11;0;0;4;0;0;0;0;15
+Registro;Gemini 2.0 Flash;Zero-Shot;Ingles;3;4;1;2;5;0;0;0;0;0;0;12
+Registro;Gemini 2.0 Flash;Few-Shot;Portugues;1;6;6;2;0;6;0;0;0;0;0;20
+Registro;Gemini 2.0 Flash;Few-Shot;Portugues;2;0;0;2;0;6;0;0;0;0;0;8
+Registro;Gemini 2.0 Flash;Few-Shot;Portugues;3;0;0;2;0;6;0;0;0;0;0;8
+Registro;Gemini 2.0 Flash;Few-Shot;Ingles;1;0;0;2;0;6;0;0;0;0;0;8
+Registro;Gemini 2.0 Flash;Few-Shot;Ingles;2;0;0;2;0;6;0;0;0;0;0;8
+Registro;Gemini 2.0 Flash;Few-Shot;Ingles;3;0;0;2;0;0;0;0;0;0;0;2
+Registro;DeepSeek V3;Zero-Shot;Portugues;1;5;5;0;0;0;0;0;0;0;0;10
+Registro;DeepSeek V3;Zero-Shot;Portugues;2;6;6;0;0;0;0;0;0;0;0;12
+Registro;DeepSeek V3;Zero-Shot;Portugues;3;5;5;0;0;0;0;0;0;0;0;10
+Registro;DeepSeek V3;Zero-Shot;Ingles;1;4;5;4;2;0;0;0;0;0;0;15
+Registro;DeepSeek V3;Zero-Shot;Ingles;2;5;5;1;5;0;0;0;0;0;0;16
+Registro;DeepSeek V3;Zero-Shot;Ingles;3;4;5;2;5;0;0;0;0;0;0;16
+Registro;DeepSeek V3;Few-Shot;Portugues;1;6;5;0;0;0;0;0;0;0;0;11
+Registro;DeepSeek V3;Few-Shot;Portugues;2;6;6;0;0;0;0;0;0;0;0;12
+Registro;DeepSeek V3;Few-Shot;Portugues;3;6;6;0;0;0;0;0;0;0;0;12
+Registro;DeepSeek V3;Few-Shot;Ingles;1;0;1;0;0;0;0;0;0;0;0;1
+Registro;DeepSeek V3;Few-Shot;Ingles;2;0;0;1;0;0;5;0;0;0;0;6
+Registro;DeepSeek V3;Few-Shot;Ingles;3;0;0;0;0;0;0;0;0;0;0;0
+Registro;Chat-GPT 4.o mini;Zero-Shot;Portugues;1;6;0;0;0;0;0;0;0;0;0;6
+Registro;Chat-GPT 4.o mini;Zero-Shot;Portugues;2;5;1;5;0;2;0;0;0;0;0;13
+Registro;Chat-GPT 4.o mini;Zero-Shot;Portugues;3;6;6;8;6;6;0;0;0;0;0;32
+Registro;Chat-GPT 4.o mini;Zero-Shot;Ingles;1;6;0;8;0;0;0;0;0;0;0;14
+Registro;Chat-GPT 4.o mini;Zero-Shot;Ingles;2;5;5;2;1;8;0;0;0;0;0;21
+Registro;Chat-GPT 4.o mini;Zero-Shot;Ingles;3;6;6;2;0;6;0;0;0;0;0;20
+Registro;Chat-GPT 4.o mini;Few-Shot;Portugues;1;0;0;2;0;6;0;0;0;0;0;8
+Registro;Chat-GPT 4.o mini;Few-Shot;Portugues;2;0;0;2;0;6;0;0;0;0;0;8
+Registro;Chat-GPT 4.o mini;Few-Shot;Portugues;3;0;0;8;0;6;0;0;0;0;0;14
+Registro;Chat-GPT 4.o mini;Few-Shot;Ingles;1;0;0;0;0;6;0;0;0;0;0;6
+Registro;Chat-GPT 4.o mini;Few-Shot;Ingles;2;0;0;2;0;6;0;0;0;0;0;8
+Registro;Chat-GPT 4.o mini;Few-Shot;Ingles;3;0;0;0;0;6;0;0;0;0;0;6
+Menu Lateral;Gemini 2.0 Flash;Zero-Shot;Portugues;1;0;0;0;0;0;0;0;0;0;0;0
+Menu Lateral;Gemini 2.0 Flash;Zero-Shot;Portugues;2;0;0;0;0;0;0;0;0;0;0;0
+Menu Lateral;Gemini 2.0 Flash;Zero-Shot;Portugues;3;0;0;0;0;0;0;0;0;0;0;0
+Menu Lateral;Gemini 2.0 Flash;Zero-Shot;Ingles;1;0;0;0;0;0;0;0;0;0;0;0
+Menu Lateral;Gemini 2.0 Flash;Zero-Shot;Ingles;2;0;0;0;0;0;0;0;0;0;0;0
+Menu Lateral;Gemini 2.0 Flash;Zero-Shot;Ingles;3;0;0;0;0;0;0;0;0;0;0;0
+Menu Lateral;Gemini 2.0 Flash;Few-Shot;Portugues;1;0;2;0;0;0;0;0;0;0;0;2
+Menu Lateral;Gemini 2.0 Flash;Few-Shot;Portugues;2;0;2;0;0;0;0;0;0;0;0;2
+Menu Lateral;Gemini 2.0 Flash;Few-Shot;Portugues;3;0;2;0;0;0;0;0;0;0;0;2
+Menu Lateral;Gemini 2.0 Flash;Few-Shot;Ingles;1;0;0;0;0;0;0;0;0;0;0;0
+Menu Lateral;Gemini 2.0 Flash;Few-Shot;Ingles;2;0;3;0;0;0;0;0;0;0;0;3
+Menu Lateral;Gemini 2.0 Flash;Few-Shot;Ingles;3;0;3;0;0;0;0;0;0;0;0;3
+Menu Lateral;DeepSeek V3;Zero-Shot;Portugues;1;0;0;0;0;0;0;0;0;0;0;0
+Menu Lateral;DeepSeek V3;Zero-Shot;Portugues;2;0;0;0;0;0;0;0;0;0;0;0
+Menu Lateral;DeepSeek V3;Zero-Shot;Portugues;3;0;0;0;0;0;1;0;0;0;0;1
+Menu Lateral;DeepSeek V3;Zero-Shot;Ingles;1;0;0;0;0;0;0;0;0;0;0;0
+Menu Lateral;DeepSeek V3;Zero-Shot;Ingles;2;0;0;0;0;0;0;0;0;0;0;0
+Menu Lateral;DeepSeek V3;Zero-Shot;Ingles;3;0;0;0;0;0;0;0;0;0;0;0
+Menu Lateral;DeepSeek V3;Few-Shot;Portugues;1;0;1;0;0;0;0;0;0;0;0;1
+Menu Lateral;DeepSeek V3;Few-Shot;Portugues;2;0;2;0;0;0;0;0;0;0;0;2
+Menu Lateral;DeepSeek V3;Few-Shot;Portugues;3;0;2;0;0;0;0;0;0;0;0;2
+Menu Lateral;DeepSeek V3;Few-Shot;Ingles;1;0;4;0;0;0;0;0;0;0;0;4
+Menu Lateral;DeepSeek V3;Few-Shot;Ingles;2;0;4;0;0;0;0;0;0;0;0;4
+Menu Lateral;DeepSeek V3;Few-Shot;Ingles;3;0;4;0;0;0;0;0;0;0;0;4
+Menu Lateral;Chat-GPT 4.o mini;Zero-Shot;Portugues;1;0;0;0;0;0;0;0;0;0;0;0
+Menu Lateral;Chat-GPT 4.o mini;Zero-Shot;Portugues;2;0;0;0;0;0;0;0;0;0;0;0
+Menu Lateral;Chat-GPT 4.o mini;Zero-Shot;Portugues;3;0;0;0;0;0;0;0;0;0;0;0
+Menu Lateral;Chat-GPT 4.o mini;Zero-Shot;Ingles;1;0;0;0;0;0;0;0;0;0;0;0
+Menu Lateral;Chat-GPT 4.o mini;Zero-Shot;Ingles;2;0;0;0;0;0;0;0;0;0;0;0
+Menu Lateral;Chat-GPT 4.o mini;Zero-Shot;Ingles;3;0;0;0;0;0;0;0;0;0;0;0
+Menu Lateral;Chat-GPT 4.o mini;Few-Shot;Portugues;1;0;0;0;0;0;0;0;0;0;0;0
+Menu Lateral;Chat-GPT 4.o mini;Few-Shot;Portugues;2;0;2;0;0;0;0;0;0;0;0;2
+Menu Lateral;Chat-GPT 4.o mini;Few-Shot;Portugues;3;0;0;0;0;0;0;0;0;0;0;0
+Menu Lateral;Chat-GPT 4.o mini;Few-Shot;Ingles;1;0;0;0;0;0;0;0;0;0;0;0
+Menu Lateral;Chat-GPT 4.o mini;Few-Shot;Ingles;2;0;0;0;0;0;0;0;0;0;0;0
+Menu Lateral;Chat-GPT 4.o mini;Few-Shot;Ingles;3;0;0;0;0;0;0;0;0;0;0;0
