@@ -18,7 +18,7 @@ Avaliar a capacidade de LLMs em gerar interfaces acessíveis para apps móveis u
   - Gemini 2.0 Flash
 
 ## Estrutura do Repositório
-
+- A pasta `/Prompts` contém todas a variações de prompts utilizados para a geracão de cada tipo de tela, cada um segundo a estratégia de prompt e idioma utilizados.
 - Cada pasta em `/LLMs/` contém os arquivos `.tsx` gerados pelos modelos para diferentes **telas** e **estratégias de prompt**.
 - Os arquivos `.zip` seguem a mesma nomenclatura dos `.tsx` e contêm:
   - A **imagem** da tela gerada;
